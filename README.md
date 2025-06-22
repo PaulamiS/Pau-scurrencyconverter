@@ -20,5 +20,6 @@ A simple and responsive web app that converts currencies in real-time using live
 
 1. Clone the repo:
    ```bash
-  https://github.com/PaulamiS/Pau-scurrencyconverter.git
+   https://github.com/PaulamiS/Pau-scurrencyconverter.git
 2. Live Demo:
+
